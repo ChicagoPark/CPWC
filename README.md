@@ -3,8 +3,8 @@
 ---
 # `Cloud Programming World Cup`
 
-#### `[1] Research Title : DeepPAVE : Deep learning-based Personalized Autonomous VehiclE`
-#### `[2] Competition Scale : 26 teams attended from 5 different Countries`
+#### [1] Research Title : DeepPAVE : Deep learning-based Personalized Autonomous VehiclE
+#### [2] Competition Scale : 26 teams attended from 5 different Countries
 ---
 # `My responsibility on this project`
 #### [1] Team representative and Presentator (13 Team members)
@@ -13,7 +13,7 @@
 
 #### [2] In charge of Deep Learning Task to personalize the driving style in self-driving car
 
-    Personalize the lane change decision timing, Generate the path according to the different driving style
+    Detail : Personalize the lane change decision timing, Generate the path according to the different driving style
 
 ---
 
