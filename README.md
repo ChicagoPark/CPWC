@@ -1,6 +1,7 @@
 ---
 # `Cloud Programming World Cup`
 
+#### [0] Team : HAVI : Human And Vehicle Interaction
 #### [1] Research Title : DeepPAVE : Deep learning-based Personalized Autonomous VehiclE
 #### [2] Competition Scale : 26 teams attended from 5 different Countries
 ---
