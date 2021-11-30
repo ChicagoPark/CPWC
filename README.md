@@ -1,5 +1,3 @@
-# CPWC_Personalized_Autonomous_Vehicle!
-
 ---
 # `Cloud Programming World Cup`
 
