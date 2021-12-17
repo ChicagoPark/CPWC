@@ -12,7 +12,7 @@
 
 #### [2] In charge of Deep Learning Task to personalize the driving style in self-driving car
 
-    Detail : Personalize the lane change decision timing, Generate the path according to the different driving style
+    Detail : Trajectory Prediction according to the different driving style using LSTM 
 
 ---
 
