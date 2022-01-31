@@ -6,6 +6,9 @@
 #### [2] Competition Scale : 26 teams attended from 5 different Countries
 #### [3] Final Prize : HONORABLE JUDGEMENT AWARD : EXCELLENCE IN CREATIVITY AWARD
 
+#### [4] Project video : https://youtu.be/8RQdWopnBNY
+#### [5] Presentation : https://youtu.be/AyNHyBnf03M
+
 <img width="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/144005244-b65878d8-023c-4344-9e3a-75bd1523bd34.png">
 
 [certificate.pdf](https://github.com/ChicagoPark/CPWC_Personalized_Vehicle/files/7623785/certificate.pdf)
